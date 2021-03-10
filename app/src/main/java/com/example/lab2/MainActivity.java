@@ -21,11 +21,9 @@ public class MainActivity extends AppCompatActivity {
             case R.id.hello_btn:
                 helloTv.setText("Обработка нажатия на кнопку ");
                 break;
-
             case R.id.hello_tv:
                 helloTv.setText("Нажали на TextView ");
                 break;
-
         }
 
 }}
